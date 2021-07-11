@@ -69,3 +69,4 @@ retrieves the value of the class variable passed into the method as an argument.
 We use it here in the test suite to check that you do in fact set a class
 variable, `@@all`, equal to an empty array and that you fill that array up with
 new dogs as they are instantiated.
+# Phase3OOPuppyLab
